@@ -12,3 +12,15 @@
 * supervised learning
 * unsupervised learning
 * reinforcement learning
+
+## mathematical requirements
+* linear algebra
+* probability theory and statistics
+* calculus
+* algorithms and complex optimizations
+
+## applications of machine learning
+* face detection (automatic recognition of people from photos of their faces, face unlock)
+* email filtering
+* medical diagnosis (improvement, complications or deterioration in patient reports)
+* weather prediction
