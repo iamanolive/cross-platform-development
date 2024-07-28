@@ -1,7 +1,7 @@
 ## introduction to supervised learning
 
 * type of system in which both input and desired output data are provided
-* input and output data are labelled for classification to provide a learning basis for future data processing
+* input and output data are labelled for classification to provide a learning basis for future data processing.
 
 ## types of supervised learning
 
