@@ -20,5 +20,3 @@
 * used when the dependent variable (target) is categorical
 * when the amount of data is huge and the target value or desired output value is a category
 * output is category/group
-
-## 
